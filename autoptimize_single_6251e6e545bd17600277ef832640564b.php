@@ -1,0 +1,1 @@
+.sbg_hide_content{display:none}.sbg_hide_validation_message{display:none}.sbg_careers_spinner{display:block;position:absolute;padding:7px 14px;border-radius:4px;bottom:-48px;right:430px !important}.sbg_form_spinner{display:inline-block !important;margin-left:20px}.sbg_hide_spinner{display:none !important}

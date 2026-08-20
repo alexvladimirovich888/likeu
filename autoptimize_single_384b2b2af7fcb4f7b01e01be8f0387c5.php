@@ -1,0 +1,1 @@
+.woocommerce ul.products li.product .price,.price{font-size:1em;color:var(--red);font-weight:500;padding:0}
